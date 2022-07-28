@@ -1,0 +1,12 @@
+*{background-color:blue;}
+P::first-letter{
+    color:red;
+}
+    a:hover{
+        color:red;
+        font size:large ;
+    
+ }
+
+ 
+ 

@@ -1,0 +1,17 @@
+
+
+
+.hilife{
+    background-image :url("img.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    height: 500px;
+    width: 800px;
+}
+.demo2{
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZPz-P4KF0oH9a2U-7X8rwNkVOlck54WAatw&usqp=CAU");
+    background-repeat:no-repeat;
+    background-size:cover;
+    height: 500px;
+    width: 800px;
+}
